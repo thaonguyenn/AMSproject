@@ -1,0 +1,50 @@
+@CHARSET "UTF-8";
+<!--register-->
+.container-register .form-horizontal .form-title{
+	background-color: #002080;
+	height: 80px;
+	margin-top: -22px;
+	margin-bottom: 10px;
+	color: white;
+	font-weight: 600px;
+	text-align: center;
+}
+
+.container-register {
+	margin-top: 150px;
+	margin-bottom:30px;
+}
+
+.container-register .form-horizontal {
+	margin-top: 10px;
+	max-width: 500px;
+	margin: 0 auto;
+	border-radius: 0.3em;
+	background-color: #fff;
+	border: 2px solid #f0f5f5;
+	
+}
+
+.container-register .form-horizontal h2 {
+	font-family: 'Poppins', sans-serif;
+	font-size: 30px;
+	font-weight: 600;
+	padding-top: 20px;
+	color: white;
+	text-align: center;
+	letter-spacing: 4px;
+}
+
+.form-control {
+	margin-bottom: -6px;
+	width: 300px;
+}
+
+
+.btn-submit{
+background-color: #002080;
+color:white;
+}
+label{
+color:#7A7A7A
+}

@@ -1,0 +1,99 @@
+@charset "UTF-8";
+#idCoach{
+	visibility: hidden;
+}
+
+p.errorEmail {
+	color: red;
+}
+
+p.errorPass {
+	color: red;
+}
+
+p.errorName {
+	color: red;
+}
+
+p.errorDepartment {
+	color: red;
+}
+
+p.errorPhone {
+	color: red;
+}
+
+p.emailOfCoach {
+	position: absolute;
+	left: 30px;
+}
+
+p.password {
+	position: absolute;
+	left: 30px;
+}
+
+p.name {
+	position: absolute;
+	left: 30px;
+}
+
+p.department {
+	position: absolute;
+	left: 30px;
+}
+
+p.telephone {
+	position: absolute;
+	left: 30px;
+}
+
+p.status {
+	position: absolute;
+	left: 30px;
+}
+
+input.emailOfCoach {
+	position: absolute;
+	left: 150px;
+	width: 350px;
+}
+
+input.password {
+	position: absolute;
+	left: 150px;
+	width: 350px;
+}
+
+input.name {
+	position: absolute;
+	left: 150px;
+	width: 350px;
+}
+
+input.department {
+	position: absolute;
+	left: 150px;
+	width: 350px;
+}
+
+input.telephone {
+	position: absolute;
+	left: 150px;
+	width: 350px;
+}
+
+input.status {
+	position: absolute;
+	left: 150px;
+	width: 350px;
+}
+
+button.add {
+	}
+
+button.cancel {
+	left: 340px;
+	margin-top: -10px;
+	position: absolute;
+}
